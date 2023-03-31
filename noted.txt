@@ -1,0 +1,55 @@
+form submision
+mengenal javascript
+javascript -> lebih mudah dipahami & dipelajari
+memanipulasi dari segi penampilan dan fungsi
+
+mendeclarasi fariabel 
+menyimpan data 
+
+buat file + folter
+namafolder/namafile
+
+variable = tempat menampung data
+deklarasi variable = var cons let
+var= bisa dirubah
+cons= tidak bisa dirubah
+let= bisa dirubah
+identifier = 
+value
+penulisan camel case = huruf kecilsambung besar
+
+menghubungkan js ke html
+di taru di paling bawah agar tampilannya muncul dlu baru error ditampilkan
+console.log untuk menampilkan nilai dari variabel
+
+tipe data primitif hanya bisa menyimpan 1 tipe data
+string, number, boolean, null. undifiend.
+cara cari tipe data
+console.log (typeof nama variabel)
+https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+
+pengkondisian javascript
+if else
+
+function (fungsi)
+function 
+function ekspresi
+function arrow
+
+return= mengeluarkan dari hasil fungsi (mengembalikan nilai hasil dari fungsi
+
+deklarasi function, menjalankan function, parameter, argument, return.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+let 4a ="kevin"
+
+get dom
+untuk mendapatkan data melalui id
+tambahkan type
+button di tombol submit
+onClick="(jalankan fungsi) getData() "
+let name = document.getElementById("name").value
+const destination = "hi.dandi99@gmail.com"
+let a = document.createElement("a")
+a.href = `mailto:$(destination)?subject-$(subject)&`
